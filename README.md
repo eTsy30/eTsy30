@@ -12,11 +12,25 @@
  
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[]()** -->
+<!-- - 🔭 An enthusiastic and detail-oriented frontend developer (junior).
+Seeking an entry-level position or internship with company to use my
+skills in coding, troubleshooting complex problems and assisting in timely
+completion of projects.
+1 reason why I decided to get into IT: I like to solve difficult problems,
+software development gave me such a possibility. Developing challenges
+me to think in different ways and to come up with creative solutions to
+my future employer or client's problems. **[]()** -->
 
 - 🌱 I’m currently learning **DS & Algo,Django.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 An enthusiastic and detail-oriented frontend developer (junior).
+Seeking an entry-level position or internship with company to use my
+skills in coding, troubleshooting complex problems and assisting in timely
+completion of projects.
+1 reason why I decided to get into IT: I like to solve difficult problems,
+software development gave me such a possibility. Developing challenges
+me to think in different ways and to come up with creative solutions to
+my future employer or client's problems. **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
  - 🎯 I’m focusing on **Competitive Programming**
