@@ -51,7 +51,7 @@
 
 ### :desktop_computer: My Projects for sharing:
 
-- Nike (Custom): [https://mrtrieu69.github.io/Flappy-bird]
+- Nike (Custom): [https://my-nikev1.netlify.app]
 <!--
 
 **eTsy30/eTsy30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
