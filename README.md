@@ -19,8 +19,7 @@ skills in coding, troubleshooting complex problems and assisting in timely
 completion of projects.
 - ⚡ Developing challenges me to think in different ways and to come up with creative solutions to
 my employer or client's problems.
-- 🔭 I am passionate about technologies and love to learn new things.
-- 🌱 I´m currently learning everythig about Frontened technologies.
+- 🔭 I am passionate about Frontened technologies and love to learn new things.
 - 🚀 Future goal: to create the most cool app which´ll change the World!
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Evgen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-tsygankov-6539b023a)
 
