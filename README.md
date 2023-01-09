@@ -1,7 +1,10 @@
 
 
 <div id="badges" align="center">
- <p>  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am frontend developer  </p>
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <p>  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I´m frontend developer 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ </p>
   <a href="https://www.linkedin.com/in/evgeny-tsygankov-6539b023a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,27 +14,11 @@
 </div>
  
 ## 🙋‍♂️ About Me
-
-<!-- - 🔭 An enthusiastic and detail-oriented frontend developer (junior).
-Seeking an entry-level position or internship with company to use my
+- 🎯 Seeking an entry-level position or internship with company to use my
 skills in coding, troubleshooting complex problems and assisting in timely
 completion of projects.
-1 reason why I decided to get into IT: I like to solve difficult problems,
-software development gave me such a possibility. Developing challenges
-me to think in different ways and to come up with creative solutions to
-my future employer or client's problems. **[]()** -->
-
-- 🌱 I’m currently learning **DS & Algo,Django.**
-
-- 👯 An enthusiastic and detail-oriented frontend developer (junior).
-Seeking an entry-level position or internship with company to use my
-skills in coding, troubleshooting complex problems and assisting in timely
-completion of projects.
-1 reason why I decided to get into IT: I like to solve difficult problems,
-software development gave me such a possibility. Developing challenges
-me to think in different ways and to come up with creative solutions to
-my future employer or client's problems. **OpenSource Projects**
-
+- ⚡ Developing challenges me to think in different ways and to come up with creative solutions to
+my employer or client's problems.  
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
  - 🎯 I’m focusing on **Competitive Programming**
  - 🔭 I'm Work on   a Full Stack Web Developer and Web Designer . I Spend most of time coding outstanding projects .
