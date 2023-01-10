@@ -54,7 +54,7 @@ my employer or client's problems.
 - trello-up (Custom) :[https://trelloup.netlify.app]
 - notes_test (Custom) :[https://notetesting.netlify.app]
 - tello2  (Custom) : [https://tsytrello.netlify.app]
-- tms_blog (Custom) : [tmsblog.netlify.app]
+- tms_blog (Custom) : [https://tmsblog.netlify.app]
 <!--
 
 **eTsy30/eTsy30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
