@@ -49,6 +49,7 @@ my employer or client's problems.
 
 
 ### :desktop_computer: My Projects for sharing:
+- Furniture-Store in process... (Custom):[https://furniture-store-psi.vercel.app/]
 - TodoList (Custom): [https://todov01.netlify.app]
 - Nike (Custom): [https://my-nikev1.netlify.app]
 - trello-up (Custom) :[https://trelloup.netlify.app]
