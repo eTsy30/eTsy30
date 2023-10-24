@@ -33,7 +33,7 @@ my employer or client's problems.
 - tello2  (Custom) : [https://tsytrello.netlify.app]
 - tms_blog (Custom) : [https://tmsblog.netlify.app]
 - NBRB : [https://practical-brattain-e406b7.netlify.app]
-<!--
+
  ## 🚀 Languages and Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -60,17 +60,8 @@ my employer or client's problems.
 
 
 
-
+<!--
 **eTsy30/eTsy30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
