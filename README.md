@@ -22,7 +22,18 @@ my employer or client's problems.
 - 🔭 I am passionate about Frontened technologies and love to learn new things.
 - 🚀 Future goal: to create the most cool app which´ll change the World!
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Evgen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-tsygankov-6539b023a)
-
+### :desktop_computer: My Projects for sharing:
+- Cleaning (Custom) : [https://clear-beta.vercel.app]
+- BudGet (Custom) :[https://client-budget.vercel.app]
+- Furniture-Store in process... (Custom):[https://furniture-store-psi.vercel.app/]
+- TodoList (Custom): [https://todov01.netlify.app]
+- Nike (Custom): [https://my-nikev1.netlify.app]
+- trello-up (Custom) :[https://trelloup.netlify.app]
+- notes_test (Custom) :[https://notetesting.netlify.app]
+- tello2  (Custom) : [https://tsytrello.netlify.app]
+- tms_blog (Custom) : [https://tmsblog.netlify.app]
+- NBRB : [https://practical-brattain-e406b7.netlify.app]
+<!--
  ## 🚀 Languages and Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,18 +59,7 @@ my employer or client's problems.
  </div>
 
 
-### :desktop_computer: My Projects for sharing:
-- Cleaning (Custom) : [https://clear-beta.vercel.app]
-- BudGet (Custom) :[https://client-budget.vercel.app]
-- Furniture-Store in process... (Custom):[https://furniture-store-psi.vercel.app/]
-- TodoList (Custom): [https://todov01.netlify.app]
-- Nike (Custom): [https://my-nikev1.netlify.app]
-- trello-up (Custom) :[https://trelloup.netlify.app]
-- notes_test (Custom) :[https://notetesting.netlify.app]
-- tello2  (Custom) : [https://tsytrello.netlify.app]
-- tms_blog (Custom) : [https://tmsblog.netlify.app]
-- NBRB : [https://practical-brattain-e406b7.netlify.app]
-<!--
+
 
 **eTsy30/eTsy30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
